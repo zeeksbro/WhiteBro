@@ -76,7 +76,7 @@ class MyWebEngineView(QWebEngineView):
         self.checker = CheckerFast(r"^file://",
                                    r"^https://uchi.ru",
                                    r"^https://resh.edu.ru",
-                                   r"^https://afonino-school.ru",
+                                   r"^http://afonino-school.ru",
                                    r"^https://ya.ru/?$",
                                    r"^https://yandex.ru/?$"
                                    r"^https://yandex.ru/search/",
